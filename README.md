@@ -132,6 +132,6 @@ This project highlights the power of data storytelling in national policy issues
 
 Thanks for checking out this project! Feel free to reach out:
 
-Email:[mmachipaulemeka@gmail.com](mailto:mmachipaulemeka@gmail.com)
+- Email:[mmachipaulemeka@gmail.com](mailto:mmachipaulemeka@gmail.com)
 
-Linkedin: [Mmachi Goodness Paul - Emeka](https://www.linkedin.com/in/mmachi-goodness-paul-emeka)
+- Linkedin: [Mmachi Goodness Paul - Emeka](https://www.linkedin.com/in/mmachi-goodness-paul-emeka)
