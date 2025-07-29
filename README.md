@@ -58,15 +58,15 @@ The data for this project was sourced from credible, publicly available platform
 ## Explanatory Data Analysis
 To understand underlying patterns and trends, the following questions guided the exploratory phase
 
-- How has Nigeria’s youth unemployment rate changed from 2010 to 2024?[Answer1](Answer-1)
+- How has Nigeria’s youth unemployment rate changed from 2010 to 2024?[Answer1](Answer1)
 
-- Which courses produce the highest number of graduates annually?[Answer2](Answer-2)
+- Which courses produce the highest number of graduates annually?[Answer2](Answer2)
 
-- Are sectors with high graduate supply aligned with employment opportunities?[Answer3](Answer-3)
+- Are sectors with high graduate supply aligned with employment opportunities?[Answer3](Answer3)
 
-- Did external events like the COVID-19 pandemic affect interest in certain disciplines?[Answer4](Answer-4)
+- Did external events like the COVID-19 pandemic affect interest in certain disciplines?[Answer4](Answer4)
 
-- What impact did the NBS methodology change in 2023 have on reported unemployment rates?[Answer5](Answer-5)
+- What impact did the NBS methodology change in 2023 have on reported unemployment rates?[Answer5](Answer5)
 
 ## Data Analysis
 
