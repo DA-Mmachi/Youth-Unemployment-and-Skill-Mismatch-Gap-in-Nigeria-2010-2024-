@@ -1,19 +1,19 @@
 # Youth Unemployment and Skill Mismatch Gap in Nigeria 2010-2024
 ---
 ## Table of Content
-- [Project Overview](Project-Overview)
-- [Dashboard Snapshot](Dashboard-Snapshot)
-- [Presentation Slides](Presentation-Slides)
-- [Data Sources](Data-Sources)
-- [Data Tools](Data-Tools)
-- [Data Cleaning & Preparation](Data-Cleaning-&-Preparation)
-- [Explanatory Data Analysis](Explanatory-Data-Analysis)
-- [Data Analysis](Data-Analysis)
-- [Key Findings](Key-Findings)
-- [Recommendation](Recommendation)
-- [References](References)
-- [Outcome & Value](Outcome-&-Value)
-- [Author Information](Author-Information)
+- [Project Overview](project-overview)
+- [Dashboard Snapshot](dashboard-snapshot)
+- [Presentation Slides](presentation-slides)
+- [Data Sources](data-sources)
+- [Data Tools](data-tools)
+- [Data Cleaning & Preparation](data-cleaning-&-Preparation)
+- [Explanatory Data Analysis](explanatory-data-analysis)
+- [Data Analysis](data-analysis)
+- [Key Findings](key-findings)
+- [Recommendation](recommendation)
+- [References](references)
+- [Outcome & Value](outcome-&-value)
+- [Author Information](author-information)
 ## Project Overview
 ---
 
@@ -58,15 +58,15 @@ The data for this project was sourced from credible, publicly available platform
 ## Explanatory Data Analysis
 To understand underlying patterns and trends, the following questions guided the exploratory phase
 
-- How has Nigeria’s youth unemployment rate changed from 2010 to 2024?[Answer1](Answer1)
+- How has Nigeria’s youth unemployment rate changed from 2010 to 2024?[Answer1](answer1)
 
-- Which courses produce the highest number of graduates annually?[Answer2](Answer2)
+- Which courses produce the highest number of graduates annually?[Answer2](answer2)
 
-- Are sectors with high graduate supply aligned with employment opportunities?[Answer3](Answer3)
+- Are sectors with high graduate supply aligned with employment opportunities?[Answer3](answer3)
 
-- Did external events like the COVID-19 pandemic affect interest in certain disciplines?[Answer4](Answer4)
+- Did external events like the COVID-19 pandemic affect interest in certain disciplines?[Answer4](answer4)
 
-- What impact did the NBS methodology change in 2023 have on reported unemployment rates?[Answer5](Answer5)
+- What impact did the NBS methodology change in 2023 have on reported unemployment rates?[Answer5](answer5)
 
 ## Data Analysis
 
