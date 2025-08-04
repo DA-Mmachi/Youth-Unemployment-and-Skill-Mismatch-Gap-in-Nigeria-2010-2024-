@@ -23,7 +23,7 @@ Despite Nigeria producing thousands of university graduates annually, youth unem
 <img width="1667" height="797" alt="Screenshot 2025-07-25 121741" src="https://github.com/user-attachments/assets/7b867483-ed62-401c-ae47-48a8b6fcd2a1" />
 
 ## Presentation Slides
-Prefer a visual summary of the analysis? Explore key findings,insights and recommendations [Click here to view powerpoint slides](https://drive.google.com/file/d/1bWKUB_i-5_13zXvk_N2FlfzsSGm5Fjfp/view?usp=drivesdk)
+Prefer a visual summary of the analysis? Explore key findings,insights and recommendations [Click here to view powerpoint slides](https://drive.google.com/file/d/1lCgdXhjAYbhc6wWn3ha-i6rbHD9Bn1Sa/view?usp=drivesdk)
 
 ## Data Sources
 The data for this project was sourced from credible, publicly available platforms
